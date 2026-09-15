@@ -2,7 +2,7 @@
 
 A powerful local RAG (Retrieval Augmented Generation) application that lets you chat with your PDF documents using Ollama and LangChain. This project includes multiple interfaces: a modern Next.js web app, a Streamlit interface, and Jupyter notebooks for experimentation.
 
-[![Python Tests](https://github.com/tonykipkemboi/ollama_pdf_rag/actions/workflows/tests.yml/badge.svg)](https://github.com/tonykipkemboi/ollama_pdf_rag/actions/workflows/tests.yml)
+[![Python Tests](https://github.com/jaednakpil777/ollama_pdf_rag/actions/workflows/tests.yml/badge.svg)](https://github.com/jaednakpil777/ollama_pdf_rag/actions/workflows/tests.yml)
 
 ## ✨ Features
 
@@ -23,11 +23,6 @@ A powerful local RAG (Retrieval Augmented Generation) application that lets you 
 ### Streamlit Interface
 ![Streamlit UI](st_app_ui.png)
 *Classic Streamlit interface with PDF viewer and chat functionality*
-
-## 📺 Video Tutorial
-<a href="https://youtu.be/ztBJqzBU5kc">
-  <img src="https://img.youtube.com/vi/ztBJqzBU5kc/hqdefault.jpg" alt="Watch the video" width="100%">
-</a>
 
 ## 🏗️ Project Structure
 ```
@@ -74,7 +69,7 @@ ollama_pdf_rag/
 
 2. **Clone Repository**
    ```bash
-   git clone https://github.com/tonykipkemboi/ollama_pdf_rag.git
+   git clone https://github.com/jaednakpil777/ollama_pdf_rag.git
    cd ollama_pdf_rag
    ```
 
@@ -213,11 +208,3 @@ Reduce chunk size if experiencing memory issues:
 This project is open source and available under the MIT License.
 
 ---
-
-## ⭐️ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=tonykipkemboi/ollama_pdf_rag&type=Date)](https://star-history.com/#tonykipkemboi/ollama_pdf_rag&Date)
-
-Built with ❤️ by [Tony Kipkemboi](https://tonykipkemboi.com)
-
-Follow me on [X](https://x.com/tonykipkemboi) | [LinkedIn](https://www.linkedin.com/in/tonykipkemboi/) | [YouTube](https://www.youtube.com/@tonykipkemboi) | [GitHub](https://github.com/tonykipkemboi)
